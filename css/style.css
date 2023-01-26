@@ -1,0 +1,32 @@
+p{
+  color: black;
+  font-size: 30px;
+  font-family: Dialog;
+
+}
+button{
+  padding: color: #000; ;
+  background: white;
+
+}
+body{*
+  background-image: url(tecno.jpeg);
+  position: center;
+  animation: backwards;
+  display: block;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: lightgreen;
+
+}
+table{width: 100%;
+  border: dotted;
+
+}
+
+th,td{
+  border:  5px black;
+background-image: url("tecno.jpeg");
+text-align: center;
+  font-family: "Abyssinica SIL";
+}
