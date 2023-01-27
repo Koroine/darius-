@@ -26,7 +26,7 @@ table{width: 100%;
 
 th,td{
   border:  5px black;
-background-image: url("tecno.jpeg");
+  background-color: hotpink;
 text-align: center;
   font-family: "Abyssinica SIL";
 }
